@@ -26,7 +26,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/YourUsername/YourRepo.git
+    git clone https://github.com/AliDiiv/solar-calendar.git
     ```
 
 2. Navigate into the project directory:
