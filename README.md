@@ -18,7 +18,7 @@ This is a Shamsi (Persian) calendar application built with Node.js. It allows us
 ## Preview
 Below is a preview of the Shamsi Calendar app:
 
-![Shamsi Calendar Preview](shamsi-calendar-preview.jpg)
+![Shamsi Calendar Preview](shamsi-calendar-preview.png)
 
 ## Installation
 
