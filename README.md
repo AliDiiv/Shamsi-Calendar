@@ -53,8 +53,6 @@ To run this project locally, follow these steps:
 3. Edit or delete existing events from the calendar.
 4. Save events to a database for future access.
 
-## Screenshot
-![Shamsi Calendar App](img/shamsi-calendar-preview.png)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
